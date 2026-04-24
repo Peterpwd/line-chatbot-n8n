@@ -150,4 +150,4 @@ Configure the following:
 ## 👨‍💻 Author
 
 **Phuwadol Phunpipat**
-Backend Developer (Aspiring)
+IT Support (Application Support)
